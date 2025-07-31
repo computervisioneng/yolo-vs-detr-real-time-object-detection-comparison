@@ -1,0 +1,9 @@
+train: /home/ubuntu/data/images/train
+val: /home/ubuntu/data/images/val
+test: /home/ubuntu/data/images/test
+
+nc: 1
+
+# Classes
+names:
+   0: duck
